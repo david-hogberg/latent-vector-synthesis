@@ -6,6 +6,8 @@ This prototype of a Latent Vector Synthesizer incorporates  a Variational Autoen
 
 This project builds on the work of Tatar et al. [1, 2]. 
 
+![gui](./docs/images/gui.png)
+
 ## Installation
 
 ### Python
