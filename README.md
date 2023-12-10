@@ -1,12 +1,10 @@
 # Latent Vector Synthesis
 
-Latent Vector Synthesis is a novel sound synthesis framework combining latent audio spaces and vector synthesis techniques. 
+Latent Vector Synthesis is a sound synthesis framework combining latent audio spaces and vector synthesis techniques. 
 
 This prototype of a Latent Vector Synthesizer incorporates  a Variational Autoencoder (VAE) model trained on short single cycle waveforms that enables interpolations and explorations of sonic textures. The generated waveforms are used as part of a vector- and wavetable synthesis engine developed in Pure Data. 
 
 The project builds on the work of Tatar et al. [1, 2]. 
-
-![gui](./docs/images/gui.png)
 
 ## Installation
 
